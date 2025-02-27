@@ -1,0 +1,18 @@
+# .gitignore
+# Ignore build directories
+/out/
+/bin/
+
+# Ignore IDE files
+.vscode/
+/.idea/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Java class files
+*.class
+
+# Ignore log files
+*.log
